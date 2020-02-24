@@ -27,6 +27,6 @@ This is an ongoing research project focused on the visualization of dynamic prox
 
   * Then consider the route length from A to D  within the network (so starting from A and using the edge to B or possibly to C).
 
-  * If the straight-line distance from A to D is less than 0.7 times that route length from A to D, then add the edge AD to the network,
+  * If the straight-line distance from A to D is less than 0.7 times that route length from A to D, then add the edge AD to the network.
 
   * ...and so on.
