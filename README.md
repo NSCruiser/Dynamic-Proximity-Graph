@@ -1,5 +1,5 @@
 # Dynamic Proximity Graphs
-This is an ongoing research project focused on the visualization of dynamic proximity graphs. More info can be found [here](https://www.stat.berkeley.edu/~aldous/Research/SInetwork.html).
+This is a completed research project focused on the visualization of dynamic proximity graphs. More info can be found [here](https://www.stat.berkeley.edu/~aldous/Research/SInetwork.html).
 ## grabriel_graph.py
 1. Generates an animation of Gabriel graph. https://en.wikipedia.org/wiki/Gabriel_graph
 ## relative_neighborhood_graph.py
